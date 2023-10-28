@@ -6,6 +6,7 @@ const Navbar = () => {
       {" "}
       <p>Todo </p>{" "}
       <p> create Todo </p>{" "}
+      <div></div>
     </div>
   );
 };
